@@ -9,7 +9,7 @@ Original file is located at
 
 #python module that requests the data (yahoo finance)
 
-!pip install yfinance
+#!pip install yfinance
 
 import yfinance as yf
 import pandas as pd
